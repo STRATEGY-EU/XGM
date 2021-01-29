@@ -1,2 +1,3 @@
 # XGM
-eXercise Guidance Method
+
+[eXercise Guidance Method](https://github.com/STRATEGY-EU/XGM)
